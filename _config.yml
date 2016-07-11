@@ -1,0 +1,14 @@
+layout_spectrum: 0.8660142957232893
+typography_spectrum: 0.23433993896469474
+color:
+  brandStrength: 0.19415548513643444
+  lightness: 0.6400351012125611
+  saturation: 0.7926344200968742
+  rhythmicContrast: 0.35009116120636463
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+name: Family lines
